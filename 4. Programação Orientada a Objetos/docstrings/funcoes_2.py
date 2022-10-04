@@ -1,0 +1,67 @@
+"""
+Descrição rápida e simples.
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+"""
+
+variavel1 = 'Valor 1'
+
+
+def soma(x, y):
+    """
+    Soma x e y
+
+    :param x: Primeiro número
+    :type x: int or float
+    :param y: Segundo Número
+    :type y: int or float
+
+    :return:  A soma de x e y
+    :rtype: int or float
+    """
+    return x + y
+
+
+def multiplica(x, y, z=None):
+    """
+    Multiplica x, y, z
+
+    Multiplica x, y e z. O programador pode omitir a variável z
+    caso não tenha necessidade de usá-la.
+
+    :param x: Primeiro número
+    :type x: int or float
+    :param y: Segundo Número
+    :type y: int or float
+    :param z: Terceiro número(opcional)
+    :type z: int, float or None
+
+    :return: A multiplicação entre x, y e z
+    :type: int ou float
+    """
+    if z:
+        return x * y
+    else:
+        return x * y * z
+
+
+variavel2 = 'Valor 2'
+variavel3 = 'Valor 3'
+variavel4 = 'Valor 4'
+variavel5 = 'Valor 5'
