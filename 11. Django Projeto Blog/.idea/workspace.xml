@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="dd0f98c0-6d25-4fd3-8fe1-0d6d7f8e3770" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -26,7 +29,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/home/italo_silvaf/Projetos/CursoPython3/CursoUdemy-DjangoProjetoBlog-Secao11/projetoblog/posts/templates/posts&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/italo_silvaf/Projetos/CursoUdemyPython3comDjango/11. Django Projeto Blog&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;advanced.settings&quot;
   }
 }</component>
@@ -36,6 +39,9 @@
       <recent name="$PROJECT_DIR$/templates/static" />
       <recent name="$PROJECT_DIR$/templates/parciais" />
       <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/projetoblog" />
     </key>
   </component>
   <component name="RunManager">
