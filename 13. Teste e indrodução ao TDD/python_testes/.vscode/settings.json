@@ -1,0 +1,6 @@
+{
+  "python.poetryPath": "venv/bin/python",
+  "code-runner.executorMap": {
+    "python": "venv/bin/python"
+  }
+}
